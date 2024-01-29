@@ -21,11 +21,11 @@ Verify that cart page is displayed
     Click Element    //*[@id="do_action"]/div[1]/div/div/a
     Click Element    //*[@id="checkoutModal"]/div/div/div[2]/p[2]/a
     Click Element    //*[@id="header"]/div/div/div/div[2]/div/ul/li[4]/a
-    Input Text    //*[@name="name"]    Kaseamsan
+    Input Text    //*[@name="name"]    Sumitta
     Input Text    //*[@id="form"]/div/div/div[3]/div/form/input[3]    ssdfsdf@gmail.com
     Click Button    //*[@id="form"]/div/div/div[3]/div/form/button
     Click Element    //*[@id="id_gender1"]    
-    Input Text    //*[@id="password"]    65022375
+    Input Text    //*[@id="password"]    65022915
     Click Element    //*[@id="days"]/option[13]
     Click Element    //*[@id="months"]/option[10]
     Click Element    //*[@id="years"]/option[21]
